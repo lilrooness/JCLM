@@ -1,1 +1,1 @@
-javac -d ../bin Test.java
+javac -d ../bin CMenu.java
